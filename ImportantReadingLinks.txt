@@ -1,0 +1,5 @@
+gitlink : https://github.com/jamenlong/ALS_expected_percent_rank_cv,https://github.com/jamenlong/ALS_expected_percent_rank_cv/blob/master/wide_to_long_function.py
+
+Published Papers on RE: http://yifanhu.net/PUB/cf.pdf, http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.306.4684&rep=rep1&type=pdf
+
+Artical mist read:https://www.mckinsey.com/industries/retail/our-insights/how-retailers-can-keep-up-with-consumers
